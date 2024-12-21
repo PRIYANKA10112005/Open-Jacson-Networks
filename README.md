@@ -26,9 +26,9 @@ Visual components and Python
 
 
 ## Program
-Developed by: Indhu Priya.T
+Developed by: Priyanka P
 
-Register Number: 24007533
+Register Number: 24900671
 
 ```
 
